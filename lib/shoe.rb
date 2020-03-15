@@ -3,6 +3,6 @@ class Shoe
  end
 end
 
-def brand
+def
   @brand
 end
