@@ -7,3 +7,6 @@ end
 def brand
   @brand
 end
+
+def shoe_color(color)
+  
