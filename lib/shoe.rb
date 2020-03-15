@@ -8,5 +8,6 @@ def brand
   @brand
 end
 
-def shoe_color(color)
+def shoe_color(shoe_colorcolor)
+  
   
